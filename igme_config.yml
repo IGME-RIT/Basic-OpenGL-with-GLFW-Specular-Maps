@@ -1,0 +1,19 @@
+series: Basic OpenGL with GLFW
+title: Specular Maps
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Make geometry shiny using blinn-phong and a specular map.
+language: C++
+tags:
+  - Graphics
+  - Math
+extra_resources:
+  - link: https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_shading_model
+    title: A wikipedia article about blinn phong shading.
+connections:
+  - series: Basic OpenGL with GLFW
+    title: Normal Maps
+  - series: Basic OpenGL with GLFW
+    title: Point Lighting
